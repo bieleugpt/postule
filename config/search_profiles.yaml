@@ -1,0 +1,14 @@
+analyste_developpeur:
+  keywords:
+    - "analyste développeur"
+    - "développeur informatique"
+    - "python sql"
+  contracts: ["CDI", "CDD"]
+  locations: ["75", "92"]
+
+cybersecurite:
+  keywords:
+    - "sécurité informatique"
+    - "cybersécurité"
+    - "administrateur systèmes"
+  contracts: ["CDI", "Alternance"]
